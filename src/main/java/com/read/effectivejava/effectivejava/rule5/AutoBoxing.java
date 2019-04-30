@@ -6,7 +6,7 @@ package com.read.effectivejava.effectivejava.rule5;
  * @author Michael Chu
  * @date 2019-04-29 19:10
  */
-public class AutoBoxingTest {
+public class AutoBoxing {
 
     private static void boxedPrimitiveTypeTest() {
         Long sum = 0L;
